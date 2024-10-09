@@ -27,6 +27,7 @@ Based on real-time analysis technology of massive data, we delve into the databa
 - [Product documentation](https://demo.dbdoctor.cn/modules/dbDoctor/mdPreview/index.html?readme=help#/)
 
 ## Technology related articles
+- [Running into binary compilation problems? Try optimizing your code with Graal VM](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/EnglishVersion/OptimizeTheCodeWithGraalVM.md)
 - [DBdoctor launches Agent-free lightweight management solution](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/EnglishVersion/DbdoctorIntroducesAgentlessLightweightManagementSolution.md)
 - [MySQL Using Temporary Case Explanation and Optimization Methods](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/EnglishVersion/MySQLUsingTemporary.md)
 - [Out of memory! How to quickly locate the root cause of Java OOM problem](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/EnglishVersion/OutOfMemory.md)

@@ -25,7 +25,7 @@ DBdoctor是一款内核级数据库性能诊断软件，致力于解决数据库
 - [产品文档](https://demo.dbdoctor.cn/modules/dbDoctor/mdPreview/index.html?readme=help#/)
 
 ## 技术相关文章
-
+- [遇到二进制编译问题？试试用Graal VM优化你的代码](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/OptimizeTheCodeWithGraalVM.md)
 - [DBdoctor推出无Agent轻量级纳管解决方案](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/DbdoctorIntroducesAgentlessLightweightManagementSolution.md)
 - [MySQL Using temporary案例详解及优化方法](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/MySQLUsingTemporary.md)
 - [内存耗尽！如何快速定位Java OOM问题根因](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/OutOfMemory.md)
