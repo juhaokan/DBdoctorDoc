@@ -20,7 +20,7 @@ DBdoctor是一款内核级数据库性能诊断软件，致力于解决数据库
 ## 简介
 
 - [DBdoctor简介](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/dbdoctor-introduce.md)
-- [下载安装包](https://www.dbdoctor.cn/h-col-133.html)
+- [下载安装包](https://www.dbdoctor.cn?utm=ca9c5e16c6de4fe68e96b814d1df39e6)
 - [在线试用](https://demo.dbdoctor.cn/)
 - [产品文档](https://demo.dbdoctor.cn/modules/dbDoctor/mdPreview/index.html?readme=help#/)
 

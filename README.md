@@ -22,7 +22,7 @@ Based on real-time analysis technology of massive data, we delve into the databa
 ## Introduction
 
 - [Introduction to DBDoctor](https://github.com/juhaokan/DBdoctorDoc/blob/main/articles/EnglishVersion/dbdoctor-introduce.md)
-- [Download installation package](https://www.dbdoctor.cn/h-col-133.html)
+- [Download installation package](https://www.dbdoctor.cn?utm=ca9c5e16c6de4fe68e96b814d1df39e6)
 - [Online trial](https://demo.dbdoctor.cn/)
 - [Product documentation](https://demo.dbdoctor.cn/modules/dbDoctor/mdPreview/index.html?readme=help#/)
 
